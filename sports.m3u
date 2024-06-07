@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:0 tvg-language="English" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20231209/pngtree-t-20-world-cup-west-indies-and-usa-2024-vector-image_15508692.jpg" group-title="Live",Live-1
 http://172.20.2.5:8082/Special-TV/index.m3u8
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-2
+#EXTINF:0 tvg-language="English" tvg-logo="https://img.cricketnmore.com/uploads/2024/05/t20-world-cup-icc-plans-hindi-social-media-content-ai-produced-videos-among-exciting-digital-experiences-for-fans-lg.jpg" group-title="Live",Live-2
 http://172.20.2.5:8082/Special-tv-2/index.m3u8
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-2
-http://172.20.2.5:8082/Special-tv-2/index.m3u8
-#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-2
-http://172.20.2.5:8082/Special-tv-2/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/77/f7/b943871d534e92825af9dc44850f-snm5.jpg" group-title="Live",Live-3
+http://172.20.2.5:8082/T-Sports/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-4
+http://172.20.2.5:8082/Ten2/index.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-2
 http://172.20.2.5:8082/Special-tv-2/index.m3u8
