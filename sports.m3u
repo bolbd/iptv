@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:0 tvg-language="English" tvg-logo="https://png.pngtree.com/thumb_back/fw800/background/20231209/pngtree-t-20-world-cup-west-indies-and-usa-2024-vector-image_15508692.jpg" group-title="Live",Live-1
+http://172.20.2.5:8082/Special-TV/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-2
+http://172.20.2.5:8082/Special-tv-2/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-2
+http://172.20.2.5:8082/Special-tv-2/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-2
+http://172.20.2.5:8082/Special-tv-2/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-2
+http://172.20.2.5:8082/Special-tv-2/index.m3u8
