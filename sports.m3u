@@ -25,3 +25,7 @@ http://172.16.172.112/live/feed1006/index.m3u8
 http://172.16.172.112/live/feed1007/index.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-13
 http://172.16.172.112/live/feed1008/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-14
+http://23.255.0.10:8080/4/index.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="" group-title="Live",Live-15
+http://23.255.0.10:8080/3/index.m3u8
